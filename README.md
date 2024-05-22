@@ -4,7 +4,7 @@ Fivem UI Hud is a public released ESX based UI hud. You may edit & change the UI
 
 # Screenshot preview
 
-![preview of the hud](https://cdn.discordapp.com/attachments/732701369089261589/1232006867572752525/hud.png?ex=663906ce&is=662691ce&hm=f9e0218e438d66e2da2adca60b1dda8cb9563e966d384bf16467258e7b2b7367&)
+![image](https://github.com/TimNieborg2/esx_customui/assets/125286309/b7dff905-3565-466a-905b-4c27ca46246f)
 
 # Requirements:
 
